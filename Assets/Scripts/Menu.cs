@@ -17,9 +17,4 @@ public class Menu : MonoBehaviour {
 	
 		ObstacleGenerator.nObstaculos = float.Parse (input1.text);
 	}
-
-	public void definirvelocidade(){
-	
-		PlayerController.velocidade = float.Parse (input2.text);
-	}
 }

@@ -112,7 +112,6 @@
      <Compile Include="Assets\LeapMotion\Scripts\VR\TemporalWarpingStatus.cs" />
      <Compile Include="Assets\LeapMotion\Scripts\VR\VRHeightOffset.cs" />
      <Compile Include="Assets\Scripts\Fim.cs" />
-     <Compile Include="Assets\Scripts\LeapController.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\ObstacleGenerator.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
