@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{56FBE452-7DCE-9F43-01F9-202A51CFE3A7}") = "Perdido no espaço - Yaw", "Assembly-CSharp.csproj", "{B166F299-B8F5-B5CE-F02A-63BE43C9069A}"
+EndProject
+Project("{56FBE452-7DCE-9F43-01F9-202A51CFE3A7}") = "Perdido no espaço - Yaw", "Assembly-CSharp-Editor.csproj", "{20CAD70D-4B9A-A8DE-B2EB-55EAFEF2917A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B166F299-B8F5-B5CE-F02A-63BE43C9069A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B166F299-B8F5-B5CE-F02A-63BE43C9069A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B166F299-B8F5-B5CE-F02A-63BE43C9069A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B166F299-B8F5-B5CE-F02A-63BE43C9069A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20CAD70D-4B9A-A8DE-B2EB-55EAFEF2917A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CAD70D-4B9A-A8DE-B2EB-55EAFEF2917A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CAD70D-4B9A-A8DE-B2EB-55EAFEF2917A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CAD70D-4B9A-A8DE-B2EB-55EAFEF2917A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

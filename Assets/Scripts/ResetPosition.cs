@@ -8,9 +8,7 @@ public class ResetPosition : MonoBehaviour {
 
     void OnTriggerEnter (Collider other)
     {
-
         SceneManager.LoadScene("Level");
 		cont = Timer.tempo;
-
     }
 }

@@ -48,3 +48,133 @@ C:\Users\SmartGlove\Desktop\André\ProjectB\Temp\bin\Debug\normnfc.nlp
 C:\Users\SmartGlove\Desktop\André\ProjectB\Temp\bin\Debug\normnfd.nlp
 C:\Users\SmartGlove\Desktop\André\ProjectB\Temp\bin\Debug\normnfkc.nlp
 C:\Users\SmartGlove\Desktop\André\ProjectB\Temp\bin\Debug\normnfkd.nlp
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\ProjectB\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\ProjectB\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\ProjectB\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\ProjectB\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\ProjectB - Pitch\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\Space - Pitch\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\Space - Pitch\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\Space - Pitch\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Space - Pitch\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Pitch\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - Yaw\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\Perdido no espaço\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\obj\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço\Temp\bin\Debug\UnityEngine.Networking.xml

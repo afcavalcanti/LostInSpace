@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DFE14ADB-854D-777C-8347-A5BC8CCD47C9}") = "Perdido no espaço - Pitch", "Assembly-CSharp.csproj", "{C9D9C195-958A-E7A8-9717-D65B3E703664}"
+EndProject
+Project("{DFE14ADB-854D-777C-8347-A5BC8CCD47C9}") = "Perdido no espaço - Pitch", "Assembly-CSharp-Editor.csproj", "{F50E3C65-3828-8A4E-33B7-BD7C2795A90C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D9C195-958A-E7A8-9717-D65B3E703664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D9C195-958A-E7A8-9717-D65B3E703664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D9C195-958A-E7A8-9717-D65B3E703664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D9C195-958A-E7A8-9717-D65B3E703664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50E3C65-3828-8A4E-33B7-BD7C2795A90C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50E3C65-3828-8A4E-33B7-BD7C2795A90C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50E3C65-3828-8A4E-33B7-BD7C2795A90C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50E3C65-3828-8A4E-33B7-BD7C2795A90C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

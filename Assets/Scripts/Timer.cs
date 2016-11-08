@@ -24,10 +24,5 @@ public class Timer : MonoBehaviour {
 		tempo = Time.time - startTime + ResetPosition.cont;
         string minutes = ((int) tempo / 60).ToString();
         string seconds = (tempo % 60).ToString("f0");
-        if (tempo < 10)
-            timerText.text = "0" + minutes + ":0" + seconds;
-        else
-            timerText.text = "0" + minutes + ":" + seconds;
-
     }
 }
