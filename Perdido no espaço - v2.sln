@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{628ECC19-9382-88BF-38C3-DECF6F174D1C}") = "Perdido no espaço - v2", "Assembly-CSharp.csproj", "{E9255869-BA16-1955-4990-5A5AFAC1C511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9255869-BA16-1955-4990-5A5AFAC1C511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9255869-BA16-1955-4990-5A5AFAC1C511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9255869-BA16-1955-4990-5A5AFAC1C511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9255869-BA16-1955-4990-5A5AFAC1C511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

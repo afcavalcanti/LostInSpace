@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour {
 
 		float translacao = Input.GetAxis ("Horizontal");
 		float profundidade = Input.GetAxis ("Vertical");
-		transform.Rotate (profundidade, 0, translacao);
-		transform.Translate (0, 0, 1f);
+		transform.Rotate (profundidade * 5f, 0, 0);
+		transform.Translate (translacao, 0, 1f);
 	}
 }

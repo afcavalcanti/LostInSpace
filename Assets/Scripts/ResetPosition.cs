@@ -7,8 +7,8 @@ public class ResetPosition : MonoBehaviour {
 	public static float cont;
 
     void OnTriggerEnter (Collider other)
-    {
-        SceneManager.LoadScene("Level");
+	{
+		SceneManager.LoadScene ("Level");
 		cont = Timer.tempo;
-    }
+	}
 }
