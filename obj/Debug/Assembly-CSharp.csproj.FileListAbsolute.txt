@@ -199,4 +199,26 @@ C:\Users\SmartGlove\Desktop\Perdido no espaço - v2\Temp\bin\Debug\UnityEngine.N
 C:\Users\SmartGlove\Desktop\Perdido no espaço - v2\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
 C:\Users\SmartGlove\Desktop\Perdido no espaço - v2\obj\Debug\Assembly-CSharp.dll
 C:\Users\SmartGlove\Desktop\Perdido no espaço - v2\obj\Debug\Assembly-CSharp.pdb
-C:\Users\SmartGlove\Desktop\Perdido no espaço - v2\Temp\bin\Debug\LeapCSharp.NET3.5.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\RadarBuilder2D.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\RadarBuilder2DEditor.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEditor.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEditor.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\obj\Debug\Assembly-CSharp.dll
+C:\Users\SmartGlove\Desktop\Perdido no espaço - v2 - Copia\obj\Debug\Assembly-CSharp.pdb

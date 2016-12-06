@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{73AE40A8-2B38-D389-C059-5D8C6EAB0AAF}") = "Perdido no espaço - v2 - Copia", "Assembly-CSharp.csproj", "{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}"
+EndProject
+Project("{73AE40A8-2B38-D389-C059-5D8C6EAB0AAF}") = "Perdido no espaço - v2 - Copia", "Assembly-UnityScript.unityproj", "{226F8ACF-316E-C2C5-4190-6084B4208232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226F8ACF-316E-C2C5-4190-6084B4208232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226F8ACF-316E-C2C5-4190-6084B4208232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226F8ACF-316E-C2C5-4190-6084B4208232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226F8ACF-316E-C2C5-4190-6084B4208232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

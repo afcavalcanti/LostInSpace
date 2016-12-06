@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E9255869-BA16-1955-4990-5A5AFAC1C511}</ProjectGuid>
+    <ProjectGuid>{1B690EEC-57DE-BE7B-5104-1E2956A3C59B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,10 +45,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\DaiMangou\2D Radar Builder\Radar\Scripts\SimpleAI.cs" />
+     <Compile Include="Assets\DaiMangou\2D Radar Builder\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scripts\Astronauta.cs" />
      <Compile Include="Assets\Scripts\Fim.cs" />
      <Compile Include="Assets\Scripts\Gun.cs" />
-     <Compile Include="Assets\Scripts\Leapcontroller.cs" />
      <Compile Include="Assets\Scripts\Menu.cs" />
      <Compile Include="Assets\Scripts\ObstacleGenerator.cs" />
      <Compile Include="Assets\Scripts\PlayerController.cs" />
@@ -57,14 +58,21 @@
      <Compile Include="Assets\Scripts\Score.cs" />
      <Compile Include="Assets\Scripts\Timer.cs" />
      <None Include="Assets\Plugins\donotdelete.txt" />
+     <None Include="Assets\DaiMangou\readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
+ <Reference Include="RadarBuilder2D">
+ <HintPath>C:/Users/SmartGlove/Desktop/Perdido no espaço - v2 - Copia/Assets/DaiMangou/2D Radar Builder/LIB/RadarBuilder2D.dll</HintPath>
+ </Reference>
+ <Reference Include="RadarBuilder2DEditor">
+ <HintPath>C:/Users/SmartGlove/Desktop/Perdido no espaço - v2 - Copia/Assets/DaiMangou/2D Radar Builder/LIB/RadarBuilder2DEditor.dll</HintPath>
+ </Reference>
  <Reference Include="LeapCSharp.NET3.5">
- <HintPath>C:/Users/SmartGlove/Desktop/Perdido no espaço - v2/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
+ <HintPath>C:/Users/SmartGlove/Desktop/Perdido no espaço - v2 - Copia/Assets/Plugins/LeapCSharp.NET3.5.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

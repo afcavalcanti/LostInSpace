@@ -11,7 +11,7 @@ public class Gun : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-		if (Input.GetMouseButtonDown(0)) {
+		if (Input.GetKeyDown("space")) {
 			GameObject projectile = Instantiate (prefab) as GameObject;
 			projectile.transform.position = transform.position + Camera.main.transform.forward * 4f;
 			Rigidbody rb = projectile.GetComponent<Rigidbody> ();
